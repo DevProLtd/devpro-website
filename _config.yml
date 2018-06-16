@@ -41,7 +41,7 @@ avatar: assets/images/avatar.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/DevProLtd" # the subpath of your site, e.g. /blog
-url: "https://www.pehac.com" # the base hostname & protocol for your site
+url: "https://www.perhac.com" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
