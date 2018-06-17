@@ -6,17 +6,23 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+I've put together a list of blog, guides, articles, videos and courses I found useful by actually reading them, trying them, watching them, completing them. I've gone over a lot of stuff on the internet and these few items deserve a mention and are well worth your time.
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+- [Pragmatic Scala book](http://amzn.to/2rR0g6I)
+- [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
+- [Martin Odersky's course on Coursera](https://www.coursera.org/learn/progfun1)
+- [Scala with Cats e-book by Underscore](https://gumroad.com/l/scala-with-cats)
+- [Cats](http://typelevel.org/cats/)
+- [Cats exercises](https://www.scala-exercises.org/cats/)
+- [Michael Pilquist's series of tutorials on YouTube](https://youtu.be/Dsd4pc99FSY)
+- [Scala Tagged Types](http://www.vlachjosef.com/tagged-types-introduction/)
+- [The Aux Pattern](http://gigiigig.github.io/posts/2015/09/13/aux-pattern.html)
+- [Of Variance and Functors](http://typelevel.org/blog/2016/02/04/variance-and-functors.html)
+- [Monad Transformers](http://enear.github.io/2016/04/11/monad-transformers/)
+- [Railway oriented programming](https://vimeo.com/113707214)
+  - Railway oriented programming: Error handling in functional languages by Scott Wlaschin
+
+
+The [Learn you a Haskell for Great Good!](http://learnyouahaskell.com/chapters) book is a great way to learn functional programming concepts. It explains things like currying, type constructors, kinds, monoids, functors, applicative functors, monads in a very clear, easy-to-follow style. Yes, I know, it's not Scala. It's Haskell. And yes, you should learn you a Haskell. For great good it will do you.
+
